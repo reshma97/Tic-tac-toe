@@ -1,0 +1,14 @@
+
+?Presentation made by Dhanashree Awhad :1 and Reshma More:15
+Program name: TicTacToe.py
+
+Software required: python-3.5.1 IDLE 
+Program does not work on lower version than 3.5.1
+
+How to run program
+Open python-3.5.1 IDLE
+Click on File in menu bar, Click open
+Browse .py file on python 
+Click F5 to run program
+
+ ?
